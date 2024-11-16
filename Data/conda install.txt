@@ -1,0 +1,7 @@
+conda create -n name python=3.9.18
+conda activate name
+conda install -c gimli -c conda-forge pygimli=1.4.6
+
+
+REMOVE:
+conda remove --name myenv --all/
