@@ -26,14 +26,11 @@ This repository contains Jupyter Notebook files for various geophysical analysis
 
 ## Installation
 
+**Important**: the use of an independent environment is strongly sugested
 1. Clone or download this repository.
 2. Install the required libraries using pip:
    ```bash
-   pip install numpy pandas matplotlib scipy geopandas seaborn
-   ```
-3. Install Jupyter Notebook:
-   ```bash
-   pip install notebook
+   pip install numpy pandas matplotlib scipy geopandas seaborn pygimli
    ```
 
 ## Usage
